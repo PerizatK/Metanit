@@ -1,0 +1,11 @@
+C:\Users\karin\Documents\GitHub\Metanit\ArithmeticOperations\ArithmeticOperations\bin\Debug\netcoreapp3.0\ArithmeticOperations.exe
+C:\Users\karin\Documents\GitHub\Metanit\ArithmeticOperations\ArithmeticOperations\bin\Debug\netcoreapp3.0\ArithmeticOperations.deps.json
+C:\Users\karin\Documents\GitHub\Metanit\ArithmeticOperations\ArithmeticOperations\bin\Debug\netcoreapp3.0\ArithmeticOperations.runtimeconfig.json
+C:\Users\karin\Documents\GitHub\Metanit\ArithmeticOperations\ArithmeticOperations\bin\Debug\netcoreapp3.0\ArithmeticOperations.runtimeconfig.dev.json
+C:\Users\karin\Documents\GitHub\Metanit\ArithmeticOperations\ArithmeticOperations\bin\Debug\netcoreapp3.0\ArithmeticOperations.dll
+C:\Users\karin\Documents\GitHub\Metanit\ArithmeticOperations\ArithmeticOperations\bin\Debug\netcoreapp3.0\ArithmeticOperations.pdb
+C:\Users\karin\Documents\GitHub\Metanit\ArithmeticOperations\ArithmeticOperations\obj\Debug\netcoreapp3.0\ArithmeticOperations.csprojAssemblyReference.cache
+C:\Users\karin\Documents\GitHub\Metanit\ArithmeticOperations\ArithmeticOperations\obj\Debug\netcoreapp3.0\ArithmeticOperations.AssemblyInfoInputs.cache
+C:\Users\karin\Documents\GitHub\Metanit\ArithmeticOperations\ArithmeticOperations\obj\Debug\netcoreapp3.0\ArithmeticOperations.AssemblyInfo.cs
+C:\Users\karin\Documents\GitHub\Metanit\ArithmeticOperations\ArithmeticOperations\obj\Debug\netcoreapp3.0\ArithmeticOperations.dll
+C:\Users\karin\Documents\GitHub\Metanit\ArithmeticOperations\ArithmeticOperations\obj\Debug\netcoreapp3.0\ArithmeticOperations.pdb
