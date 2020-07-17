@@ -1,0 +1,11 @@
+C:\Users\karin\Documents\GitHub\Metanit\Cycle\Cycle\bin\Debug\netcoreapp3.0\Cycle.exe
+C:\Users\karin\Documents\GitHub\Metanit\Cycle\Cycle\bin\Debug\netcoreapp3.0\Cycle.deps.json
+C:\Users\karin\Documents\GitHub\Metanit\Cycle\Cycle\bin\Debug\netcoreapp3.0\Cycle.runtimeconfig.json
+C:\Users\karin\Documents\GitHub\Metanit\Cycle\Cycle\bin\Debug\netcoreapp3.0\Cycle.runtimeconfig.dev.json
+C:\Users\karin\Documents\GitHub\Metanit\Cycle\Cycle\bin\Debug\netcoreapp3.0\Cycle.dll
+C:\Users\karin\Documents\GitHub\Metanit\Cycle\Cycle\bin\Debug\netcoreapp3.0\Cycle.pdb
+C:\Users\karin\Documents\GitHub\Metanit\Cycle\Cycle\obj\Debug\netcoreapp3.0\Cycle.csprojAssemblyReference.cache
+C:\Users\karin\Documents\GitHub\Metanit\Cycle\Cycle\obj\Debug\netcoreapp3.0\Cycle.AssemblyInfoInputs.cache
+C:\Users\karin\Documents\GitHub\Metanit\Cycle\Cycle\obj\Debug\netcoreapp3.0\Cycle.AssemblyInfo.cs
+C:\Users\karin\Documents\GitHub\Metanit\Cycle\Cycle\obj\Debug\netcoreapp3.0\Cycle.dll
+C:\Users\karin\Documents\GitHub\Metanit\Cycle\Cycle\obj\Debug\netcoreapp3.0\Cycle.pdb
