@@ -1,0 +1,11 @@
+C:\Users\karin\Documents\GitHub\Metanit\Methods\Methods\bin\Debug\netcoreapp3.0\Methods.exe
+C:\Users\karin\Documents\GitHub\Metanit\Methods\Methods\bin\Debug\netcoreapp3.0\Methods.deps.json
+C:\Users\karin\Documents\GitHub\Metanit\Methods\Methods\bin\Debug\netcoreapp3.0\Methods.runtimeconfig.json
+C:\Users\karin\Documents\GitHub\Metanit\Methods\Methods\bin\Debug\netcoreapp3.0\Methods.runtimeconfig.dev.json
+C:\Users\karin\Documents\GitHub\Metanit\Methods\Methods\bin\Debug\netcoreapp3.0\Methods.dll
+C:\Users\karin\Documents\GitHub\Metanit\Methods\Methods\bin\Debug\netcoreapp3.0\Methods.pdb
+C:\Users\karin\Documents\GitHub\Metanit\Methods\Methods\obj\Debug\netcoreapp3.0\Methods.csprojAssemblyReference.cache
+C:\Users\karin\Documents\GitHub\Metanit\Methods\Methods\obj\Debug\netcoreapp3.0\Methods.AssemblyInfoInputs.cache
+C:\Users\karin\Documents\GitHub\Metanit\Methods\Methods\obj\Debug\netcoreapp3.0\Methods.AssemblyInfo.cs
+C:\Users\karin\Documents\GitHub\Metanit\Methods\Methods\obj\Debug\netcoreapp3.0\Methods.dll
+C:\Users\karin\Documents\GitHub\Metanit\Methods\Methods\obj\Debug\netcoreapp3.0\Methods.pdb
