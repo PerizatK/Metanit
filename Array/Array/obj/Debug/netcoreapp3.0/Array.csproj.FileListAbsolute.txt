@@ -1,0 +1,11 @@
+C:\Users\karin\Documents\GitHub\Metanit\Array\Array\bin\Debug\netcoreapp3.0\Array.exe
+C:\Users\karin\Documents\GitHub\Metanit\Array\Array\bin\Debug\netcoreapp3.0\Array.deps.json
+C:\Users\karin\Documents\GitHub\Metanit\Array\Array\bin\Debug\netcoreapp3.0\Array.runtimeconfig.json
+C:\Users\karin\Documents\GitHub\Metanit\Array\Array\bin\Debug\netcoreapp3.0\Array.runtimeconfig.dev.json
+C:\Users\karin\Documents\GitHub\Metanit\Array\Array\bin\Debug\netcoreapp3.0\Array.dll
+C:\Users\karin\Documents\GitHub\Metanit\Array\Array\bin\Debug\netcoreapp3.0\Array.pdb
+C:\Users\karin\Documents\GitHub\Metanit\Array\Array\obj\Debug\netcoreapp3.0\Array.csprojAssemblyReference.cache
+C:\Users\karin\Documents\GitHub\Metanit\Array\Array\obj\Debug\netcoreapp3.0\Array.AssemblyInfoInputs.cache
+C:\Users\karin\Documents\GitHub\Metanit\Array\Array\obj\Debug\netcoreapp3.0\Array.AssemblyInfo.cs
+C:\Users\karin\Documents\GitHub\Metanit\Array\Array\obj\Debug\netcoreapp3.0\Array.dll
+C:\Users\karin\Documents\GitHub\Metanit\Array\Array\obj\Debug\netcoreapp3.0\Array.pdb
