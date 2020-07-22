@@ -1,0 +1,13 @@
+C:\Users\karin\Documents\GitHub\Metanit\Recursion, enum etc\Recursion, enum etc\bin\Debug\netcoreapp3.0\Recursion, enum etc.exe
+C:\Users\karin\Documents\GitHub\Metanit\Recursion, enum etc\Recursion, enum etc\bin\Debug\netcoreapp3.0\Recursion, enum etc.deps.json
+C:\Users\karin\Documents\GitHub\Metanit\Recursion, enum etc\Recursion, enum etc\bin\Debug\netcoreapp3.0\Recursion, enum etc.runtimeconfig.json
+C:\Users\karin\Documents\GitHub\Metanit\Recursion, enum etc\Recursion, enum etc\bin\Debug\netcoreapp3.0\Recursion, enum etc.runtimeconfig.dev.json
+C:\Users\karin\Documents\GitHub\Metanit\Recursion, enum etc\Recursion, enum etc\bin\Debug\netcoreapp3.0\Recursion, enum etc.dll
+C:\Users\karin\Documents\GitHub\Metanit\Recursion, enum etc\Recursion, enum etc\bin\Debug\netcoreapp3.0\Recursion, enum etc.pdb
+C:\Users\karin\Documents\GitHub\Metanit\Recursion, enum etc\Recursion, enum etc\obj\Debug\netcoreapp3.0\Recursion, enum etc.csprojAssemblyReference.cache
+C:\Users\karin\Documents\GitHub\Metanit\Recursion, enum etc\Recursion, enum etc\obj\Debug\netcoreapp3.0\Recursion, enum etc.AssemblyInfoInputs.cache
+C:\Users\karin\Documents\GitHub\Metanit\Recursion, enum etc\Recursion, enum etc\obj\Debug\netcoreapp3.0\Recursion, enum etc.AssemblyInfo.cs
+C:\Users\karin\Documents\GitHub\Metanit\Recursion, enum etc\Recursion, enum etc\obj\Debug\netcoreapp3.0\Recursion, enum etc.dll
+C:\Users\karin\Documents\GitHub\Metanit\Recursion, enum etc\Recursion, enum etc\obj\Debug\netcoreapp3.0\Recursion, enum etc.pdb
+C:\Users\karin\Documents\GitHub\Metanit\Recursion, enum etc\Recursion, enum etc\obj\Debug\netcoreapp3.0\Recursion, enum etc.csproj.CoreCompileInputs.cache
+C:\Users\karin\Documents\GitHub\Metanit\Recursion, enum etc\Recursion, enum etc\obj\Debug\netcoreapp3.0\Recursion, enum etc.genruntimeconfig.cache
