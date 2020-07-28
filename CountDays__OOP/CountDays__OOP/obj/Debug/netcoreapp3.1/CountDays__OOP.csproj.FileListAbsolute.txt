@@ -1,0 +1,13 @@
+C:\Users\karin\Documents\GitHub\Metanit\CountDays__OOP\CountDays__OOP\obj\Debug\netcoreapp3.1\CountDays__OOP.csprojAssemblyReference.cache
+C:\Users\karin\Documents\GitHub\Metanit\CountDays__OOP\CountDays__OOP\obj\Debug\netcoreapp3.1\CountDays__OOP.AssemblyInfoInputs.cache
+C:\Users\karin\Documents\GitHub\Metanit\CountDays__OOP\CountDays__OOP\obj\Debug\netcoreapp3.1\CountDays__OOP.AssemblyInfo.cs
+C:\Users\karin\Documents\GitHub\Metanit\CountDays__OOP\CountDays__OOP\obj\Debug\netcoreapp3.1\CountDays__OOP.csproj.CoreCompileInputs.cache
+C:\Users\karin\Documents\GitHub\Metanit\CountDays__OOP\CountDays__OOP\bin\Debug\netcoreapp3.1\CountDays__OOP.exe
+C:\Users\karin\Documents\GitHub\Metanit\CountDays__OOP\CountDays__OOP\bin\Debug\netcoreapp3.1\CountDays__OOP.deps.json
+C:\Users\karin\Documents\GitHub\Metanit\CountDays__OOP\CountDays__OOP\bin\Debug\netcoreapp3.1\CountDays__OOP.runtimeconfig.json
+C:\Users\karin\Documents\GitHub\Metanit\CountDays__OOP\CountDays__OOP\bin\Debug\netcoreapp3.1\CountDays__OOP.runtimeconfig.dev.json
+C:\Users\karin\Documents\GitHub\Metanit\CountDays__OOP\CountDays__OOP\bin\Debug\netcoreapp3.1\CountDays__OOP.dll
+C:\Users\karin\Documents\GitHub\Metanit\CountDays__OOP\CountDays__OOP\bin\Debug\netcoreapp3.1\CountDays__OOP.pdb
+C:\Users\karin\Documents\GitHub\Metanit\CountDays__OOP\CountDays__OOP\obj\Debug\netcoreapp3.1\CountDays__OOP.dll
+C:\Users\karin\Documents\GitHub\Metanit\CountDays__OOP\CountDays__OOP\obj\Debug\netcoreapp3.1\CountDays__OOP.pdb
+C:\Users\karin\Documents\GitHub\Metanit\CountDays__OOP\CountDays__OOP\obj\Debug\netcoreapp3.1\CountDays__OOP.genruntimeconfig.cache
