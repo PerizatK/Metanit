@@ -1,0 +1,12 @@
+C:\Users\karin\Documents\GitHub\Metanit\Struct_OOP\Struct_OOP\bin\Debug\netcoreapp3.1\IdealWeight.exe
+C:\Users\karin\Documents\GitHub\Metanit\Struct_OOP\Struct_OOP\bin\Debug\netcoreapp3.1\IdealWeight.deps.json
+C:\Users\karin\Documents\GitHub\Metanit\Struct_OOP\Struct_OOP\bin\Debug\netcoreapp3.1\IdealWeight.runtimeconfig.json
+C:\Users\karin\Documents\GitHub\Metanit\Struct_OOP\Struct_OOP\bin\Debug\netcoreapp3.1\IdealWeight.runtimeconfig.dev.json
+C:\Users\karin\Documents\GitHub\Metanit\Struct_OOP\Struct_OOP\bin\Debug\netcoreapp3.1\IdealWeight.dll
+C:\Users\karin\Documents\GitHub\Metanit\Struct_OOP\Struct_OOP\bin\Debug\netcoreapp3.1\IdealWeight.pdb
+C:\Users\karin\Documents\GitHub\Metanit\Struct_OOP\Struct_OOP\obj\Debug\netcoreapp3.1\IdealWeight.AssemblyInfoInputs.cache
+C:\Users\karin\Documents\GitHub\Metanit\Struct_OOP\Struct_OOP\obj\Debug\netcoreapp3.1\IdealWeight.AssemblyInfo.cs
+C:\Users\karin\Documents\GitHub\Metanit\Struct_OOP\Struct_OOP\obj\Debug\netcoreapp3.1\IdealWeight.csproj.CoreCompileInputs.cache
+C:\Users\karin\Documents\GitHub\Metanit\Struct_OOP\Struct_OOP\obj\Debug\netcoreapp3.1\IdealWeight.dll
+C:\Users\karin\Documents\GitHub\Metanit\Struct_OOP\Struct_OOP\obj\Debug\netcoreapp3.1\IdealWeight.pdb
+C:\Users\karin\Documents\GitHub\Metanit\Struct_OOP\Struct_OOP\obj\Debug\netcoreapp3.1\IdealWeight.genruntimeconfig.cache

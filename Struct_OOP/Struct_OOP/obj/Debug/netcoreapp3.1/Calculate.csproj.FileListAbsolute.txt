@@ -1,0 +1,13 @@
+C:\Users\karin\Documents\GitHub\Metanit\Struct_OOP\Struct_OOP\bin\Debug\netcoreapp3.1\Calculate.exe
+C:\Users\karin\Documents\GitHub\Metanit\Struct_OOP\Struct_OOP\bin\Debug\netcoreapp3.1\Calculate.deps.json
+C:\Users\karin\Documents\GitHub\Metanit\Struct_OOP\Struct_OOP\bin\Debug\netcoreapp3.1\Calculate.runtimeconfig.json
+C:\Users\karin\Documents\GitHub\Metanit\Struct_OOP\Struct_OOP\bin\Debug\netcoreapp3.1\Calculate.runtimeconfig.dev.json
+C:\Users\karin\Documents\GitHub\Metanit\Struct_OOP\Struct_OOP\bin\Debug\netcoreapp3.1\Calculate.dll
+C:\Users\karin\Documents\GitHub\Metanit\Struct_OOP\Struct_OOP\bin\Debug\netcoreapp3.1\Calculate.pdb
+C:\Users\karin\Documents\GitHub\Metanit\Struct_OOP\Struct_OOP\obj\Debug\netcoreapp3.1\Calculate.AssemblyInfoInputs.cache
+C:\Users\karin\Documents\GitHub\Metanit\Struct_OOP\Struct_OOP\obj\Debug\netcoreapp3.1\Calculate.AssemblyInfo.cs
+C:\Users\karin\Documents\GitHub\Metanit\Struct_OOP\Struct_OOP\obj\Debug\netcoreapp3.1\Calculate.csproj.CoreCompileInputs.cache
+C:\Users\karin\Documents\GitHub\Metanit\Struct_OOP\Struct_OOP\obj\Debug\netcoreapp3.1\Calculate.dll
+C:\Users\karin\Documents\GitHub\Metanit\Struct_OOP\Struct_OOP\obj\Debug\netcoreapp3.1\Calculate.pdb
+C:\Users\karin\Documents\GitHub\Metanit\Struct_OOP\Struct_OOP\obj\Debug\netcoreapp3.1\Calculate.genruntimeconfig.cache
+C:\Users\karin\Documents\GitHub\Metanit\Struct_OOP\Struct_OOP\obj\Debug\netcoreapp3.1\Calculate.csprojAssemblyReference.cache
